@@ -18,7 +18,7 @@ For 2019 Fall DH150 User Experience Design final project <br>
 > [Menu](https://github.com/ShanZ3/Holy_Health/blob/master/Screen%20Shot%202019-12-10%20at%201.38.15%20PM.png)
 
 ## Interactive Prototype
-> Interactive Prototype](https://projects.invisionapp.com/prototype/ck40ec8au00g0ni01vmr7ny7n/play)
+> [Interactive Prototype](https://projects.invisionapp.com/prototype/ck40ec8au00g0ni01vmr7ny7n/play)
 
 ## Usability Test
 > * Most participants (total of five) prefer light mode of the app. It's easier for them to check the numbers under strong light condition in light mode comparing to dark mode. <br>
