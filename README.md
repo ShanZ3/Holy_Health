@@ -14,7 +14,7 @@ For 2019 Fall DH150 User Experience Design final project <br>
 > [Wireframe+Workflow](https://github.com/ShanZ3/Holy_Health/blob/master/Holy_Health_prot-page-001.jpg)
 
 ## Screen Designs
-> [Get Start](https://github.com/ShanZ3/Holy_Health/blob/master/Screen%20Shot%202019-12-10%20at%201.42.53%20PM.png)
+> [Get Start](https://github.com/ShanZ3/Holy_Health/blob/master/Screen%20Shot%202019-12-10%20at%201.42.53%20PM.png) <br>
 > [Menu](https://github.com/ShanZ3/Holy_Health/blob/master/Screen%20Shot%202019-12-10%20at%201.38.15%20PM.png)
 
 ## Interactive Prototype
